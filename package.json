@@ -1,5 +1,5 @@
 {
-  "name": "@csgaglobal/slack-messaging",
+  "name": "@meok-ai-labs/slack-messaging",
   "version": "1.0.0",
   "description": "Slack workspace integration for messaging, channel management, and workflow automation.",
   "main": "dist/index.js",
@@ -20,10 +20,10 @@
   "devDependencies": {
     "typescript": "^5.7.3"
   },
-  "author": "CSGA Global",
+  "author": "MEOK Labs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/csga-global/mcp-servers",
+    "url": "https://github.com/meok-ai/mcp-servers",
     "directory": "packages/slack-messaging"
   },
   "keywords": [
